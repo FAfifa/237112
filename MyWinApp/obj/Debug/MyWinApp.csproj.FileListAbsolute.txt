@@ -1,0 +1,10 @@
+E:\237112\MyWinApp\bin\Debug\MyWinApp.exe.config
+E:\237112\MyWinApp\bin\Debug\MyWinApp.exe
+E:\237112\MyWinApp\bin\Debug\MyWinApp.pdb
+E:\237112\MyWinApp\obj\Debug\MyWinApp.csprojAssemblyReference.cache
+E:\237112\MyWinApp\obj\Debug\MyWinApp.HomeFrom.resources
+E:\237112\MyWinApp\obj\Debug\MyWinApp.Properties.Resources.resources
+E:\237112\MyWinApp\obj\Debug\MyWinApp.csproj.GenerateResource.cache
+E:\237112\MyWinApp\obj\Debug\MyWinApp.csproj.CoreCompileInputs.cache
+E:\237112\MyWinApp\obj\Debug\MyWinApp.exe
+E:\237112\MyWinApp\obj\Debug\MyWinApp.pdb
