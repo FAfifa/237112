@@ -1,0 +1,10 @@
+D:\237112\ArrayWinApp\ArrayWinApp\bin\Debug\ArrayWinApp.exe.config
+D:\237112\ArrayWinApp\ArrayWinApp\bin\Debug\ArrayWinApp.exe
+D:\237112\ArrayWinApp\ArrayWinApp\bin\Debug\ArrayWinApp.pdb
+D:\237112\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.csprojAssemblyReference.cache
+D:\237112\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.ArrayForm.resources
+D:\237112\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.Properties.Resources.resources
+D:\237112\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.csproj.GenerateResource.cache
+D:\237112\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.csproj.CoreCompileInputs.cache
+D:\237112\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.exe
+D:\237112\ArrayWinApp\ArrayWinApp\obj\Debug\ArrayWinApp.pdb
